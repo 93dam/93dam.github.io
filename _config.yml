@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: 차온
   card: summary
 logo: logo.png
 social:
   name: Choi i Dam
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/Cha_on93
+    - https://github.com/93dam
 google_site_verification: xxxxx
 lang: en
 
