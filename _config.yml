@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: 자라나는 새싹 개발자 Dam
+description: 웹퍼블리셔 과정 수료후 프론트엔드 정진중
+url: https://93dam.github.io/
+avatar: /admin.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
